@@ -1,0 +1,21 @@
+Feature,Importance
+Status_Scores,0.4949092
+Sustainability_Score,0.05588267
+Auto_Renewal_Score,0.04433105
+Connection_Group_Unknown,0.030591106
+stage_high_risk_flag,0.0246961
+Discount_Amount,0.024552805
+Tenure_Years,0.02310907
+Band_Band C1,0.019555848
+Payment_Timeframe,0.017595336
+Anchor_Group_Unknown,0.017135326
+Renewal_Score_At_Release,0.0126359835
+Band_Band B,0.012225205
+Band_Band F,0.012091677
+Tenure_Group_3,0.010411221
+Band_Band D,0.01008276
+stage_low_risk_flag,0.008868912
+Anchoring_Score,0.008755889
+Total_Net_Paid,0.008717017
+cancel_flag,0.008534476
+competitor_mentioned_flag,0.008365629

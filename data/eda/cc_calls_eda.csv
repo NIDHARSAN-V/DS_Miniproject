@@ -1,0 +1,372 @@
+Contact_ID,Call_Date,Direction,cc_care_package,cc_care_package_discussed,cc_urgency_getting_on_site,cc_external_consultant,cc_agent_cross_sell_attempt,cc_customer_issues_concerns,cc_business_struggles_financial_hardship,cc_call_initiated_by,cc_questionnaire_completion,cc_chasing_response,cc_issues_within_questionnaire,cc_login_issues,cc_platform_issues,cc_dissatisfaction_time_to_complete,cc_process_complexity_concerns,cc_questions_harder_than_expected,cc_dissatisfaction_support,cc_contractor_sentiment,cc_contractor_sentiment_start_score,cc_contractor_sentiment_end_score,cc_contractor_sentiment_overall_score,cc_contractor_sentiment_issues_score,cc_pricing_mentioned,cc_pricing_sentiment_impact,cc_refund_discussed,cc_contractor_suggest_leave,cc_contractor_complained,Co_Ref,Analysed_Call,Call_Year,Prospect_Renewal_Date,Prospect_Outcome,Days_Before_Renewal,target,sentiment_change,negative_sentiment_flag,days_bucket
+595926000000,2025-11-02,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,Yes,No,No,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,Unknown,No,No,No,No,No,AC5722,1,2025,2025-12-03,Won,31,0,40.0,0,29-35d
+595926000000,2025-11-02,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Satisfied,50.0,100.0,100.0,Unknown,No,No,No,No,No,AC5722,1,2025,2025-12-03,Won,31,0,50.0,0,29-35d
+593696000000,2025-07-01,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Not Discussed,50.0,50.0,,Unknown,No,No,No,No,No,AD2371,1,2025,2025-08-12,Won,42,0,0.0,0,36-45d
+589929000000,2024-05-11,OUT_BOUND,Not Discussed,No,No,No,No,Yes,No,Agent,No,No,No,No,No,No,No,No,No,Neutral,50.0,80.0,80.0,Unknown,No,No,No,No,No,AH9688,1,2024,2024-06-11,Won,31,0,30.0,0,29-35d
+625513000000,2025-08-05,OUT_BOUND,Not Discussed,No,No,Yes,No,No,No,Agent,No,No,No,No,No,No,No,No,No,Neutral,50.0,80.0,80.0,Unknown,No,No,No,No,No,AI6242,1,2025,2025-09-12,Won,38,0,30.0,0,36-45d
+651251000000,2025-03-06,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Neutral,50.0,50.0,50.0,Unknown,No,No,No,No,No,AK6415,1,2025,2025-04-09,Won,34,0,0.0,0,29-35d
+689717000000,2025-10-12,OUT_BOUND,Not Discussed,Yes,No,No,No,No,No,Customer,No,Yes,No,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,Unknown,No,No,No,No,No,AK9167,1,2025,2025-11-01,Won,20,0,40.0,0,14-21d
+597082000000,2025-03-03,OUT_BOUND,Not Discussed,No,No,No,No,Yes,No,Agent,Yes,No,Yes,No,No,No,Yes,No,No,Neutral,50.0,80.0,70.0,70,No,No,No,No,No,AK9792,1,2025,2025-04-03,Won,31,0,30.0,0,29-35d
+595302000000,2025-03-02,OUT_BOUND,Standard,Yes,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Neutral,50.0,80.0,80.0,Unknown,No,No,No,No,No,AK9929,1,2025,2025-04-10,Won,39,0,30.0,0,36-45d
+651877000000,2025-11-06,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Agent,Yes,No,No,No,No,No,No,No,No,Neutral,50.0,70.0,60.0,Unknown,No,No,No,Yes,No,AL6603,1,2025,2025-12-06,Won,30,0,20.0,0,29-35d
+677897000000,2025-09-07,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Agent,No,No,No,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,Unknown,No,No,No,No,No,AN7937,1,2025,2025-10-07,Won,30,0,40.0,0,29-35d
+678084000000,2025-11-07,IN_BOUND,Not Discussed,No,No,No,No,No,No,Not Relevant,No,No,No,No,No,No,No,No,No,Neutral,50.0,50.0,,Unknown,No,No,No,No,No,AP7473,1,2025,2025-12-07,Won,30,0,0.0,0,29-35d
+687352000000,2025-11-11,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Neutral,50.0,50.0,50.0,Unknown,No,No,No,No,No,AX0272,1,2025,2025-12-04,Won,23,0,0.0,0,22-28d
+593824000000,2025-09-01,OUT_BOUND,Standard,Yes,No,No,No,Yes,No,Agent,Yes,No,No,No,No,No,No,No,No,Neutral,50.0,80.0,70.0,Unknown,No,No,No,No,No,AZ0370,1,2025,2025-10-02,Won,31,0,30.0,0,29-35d
+689718000000,2025-11-12,OUT_BOUND,Standard,Yes,No,Yes,No,No,No,Agent,No,No,No,No,No,No,No,No,No,Neutral,50.0,80.0,80.0,Unknown,No,No,No,No,No,AZ1521,1,2025,2025-12-10,Won,28,0,30.0,0,22-28d
+689008000000,2025-02-12,OUT_BOUND,Standard,Yes,Yes,No,No,No,No,Customer,Yes,Yes,No,Yes,No,No,No,No,No,Satisfied,20.0,80.0,80.0,80,No,No,No,No,No,AZ9091,1,2025,2025-03-10,Won,26,0,60.0,0,22-28d
+591917000000,2024-09-12,OUT_BOUND,Standard,Yes,No,No,No,No,No,Agent,Yes,No,No,No,Yes,No,No,No,No,Satisfied,50.0,90.0,90.0,90,No,No,No,No,No,BC2085,1,2024,2024-10-06,Won,24,0,40.0,0,22-28d
+589928000000,2024-05-11,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,Yes,No,No,No,No,No,Neutral,50.0,80.0,80.0,80,No,No,No,No,Yes,BC7177,1,2024,2024-06-10,Won,30,0,30.0,0,29-35d
+688889000000,2025-01-12,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Agent,No,No,No,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,90,No,No,No,No,No,BD2744,1,2025,2025-02-10,Won,29,0,40.0,0,29-35d
+621699000000,2025-10-03,OUT_BOUND,Not Discussed,No,No,Yes,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Satisfied,50.0,80.0,80.0,80,No,No,No,No,No,BI5690,1,2025,2025-11-10,Won,38,0,30.0,0,36-45d
+684210000000,2025-06-10,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Not Relevant,No,No,No,No,No,No,No,No,No,Not Discussed,50.0,50.0,,Unknown,No,No,No,No,No,BJ1330,1,2025,2025-07-01,Won,21,0,0.0,0,14-21d
+677898000000,2025-10-07,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Satisfied,50.0,90.0,85.0,Unknown,No,No,No,No,No,BL8276,1,2025,2025-11-09,Won,33,0,40.0,0,29-35d
+595466000000,2025-05-02,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Agent,No,No,No,No,No,No,No,No,No,Neutral,50.0,80.0,80.0,Unknown,Yes,No,No,No,No,BM3719,1,2025,2025-06-10,Won,39,0,30.0,0,36-45d
+592072000000,2024-10-12,IN_BOUND,Not Discussed,No,No,No,No,No,No,Customer,Yes,Yes,Yes,No,No,No,Yes,No,No,Neutral,40.0,80.0,70.0,60,No,No,No,No,Yes,BO1554,1,2024,2024-11-04,Won,23,0,40.0,0,22-28d
+689717000000,2025-10-12,OUT_BOUND,Standard,Yes,No,No,No,No,No,Agent,No,No,No,No,No,No,No,No,No,Satisfied,80.0,90.0,85.0,Unknown,No,No,No,No,No,BO5363,1,2025,2025-11-12,Won,31,0,10.0,0,29-35d
+623476000000,2025-07-04,IN_BOUND,Not Discussed,No,No,No,No,No,No,Customer,Yes,No,Yes,No,No,No,No,No,No,Satisfied,80.0,90.0,90.0,90,No,No,No,No,No,BS2874,1,2025,2025-08-05,Won,32,0,10.0,0,29-35d
+688889000000,2025-01-12,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Agent,No,No,No,No,No,No,No,No,No,Satisfied,80.0,90.0,85.0,Unknown,Yes,No,No,No,No,BW2680,1,2025,2025-02-12,Won,31,0,10.0,0,29-35d
+682477000000,2025-11-09,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,Yes,No,No,No,No,Satisfied,80.0,90.0,85.0,Unknown,Yes,No,No,No,No,BY0093,1,2025,2025-12-10,Won,31,0,10.0,0,29-35d
+689008000000,2025-02-12,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Neutral,50.0,50.0,,Unknown,No,No,No,No,No,BY5796,1,2025,2025-03-09,Won,25,0,0.0,0,22-28d
+565597000000,2024-01-11,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Agent,No,No,No,No,No,No,No,No,No,Neutral,50.0,80.0,80.0,Unknown,No,No,No,No,No,CF5724,1,2024,2024-02-07,Won,27,0,30.0,0,22-28d
+593391000000,2025-03-01,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Neutral,50.0,80.0,80.0,Unknown,No,No,No,No,No,CK0947,1,2025,2025-04-03,Won,33,0,30.0,0,29-35d
+597237000000,2025-03-03,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Satisfied,50.0,80.0,80.0,Unknown,No,No,No,No,No,CK0947,1,2025,2025-04-03,Won,31,0,30.0,0,29-35d
+589929000000,2024-06-11,OUT_BOUND,Express,Yes,Yes,No,No,No,No,Agent,No,No,No,No,Yes,No,No,No,No,Neutral,50.0,80.0,80.0,80,No,No,No,No,No,CK6097,1,2024,2024-07-02,Won,21,0,30.0,0,14-21d
+686663000000,2025-04-11,OUT_BOUND,Not Discussed,No,No,Yes,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Satisfied,80.0,90.0,85.0,Unknown,No,No,No,No,No,CK8782,1,2025,2025-05-02,Won,21,0,10.0,0,14-21d
+689199000000,2025-04-12,OUT_BOUND,Not Discussed,No,Yes,Yes,No,No,No,Customer,No,Yes,No,No,No,Yes,No,No,No,Satisfied,80.0,100.0,90.0,Unknown,No,No,No,No,No,CK8782,1,2025,2025-05-02,Won,20,0,20.0,0,14-21d
+684558000000,2025-09-10,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Not Relevant,No,No,No,No,No,No,No,No,No,Not Discussed,50.0,50.0,,Unknown,No,No,No,No,No,CL2155,1,2025,2025-10-04,Won,24,0,0.0,0,22-28d
+682476000000,2025-10-09,OUT_BOUND,Not Discussed,No,No,No,No,No,Yes,Agent,No,No,No,No,Yes,No,Yes,No,No,Neutral,50.0,80.0,80.0,80,Yes,Yes,Yes,Yes,No,CM3500,1,2025,2025-11-09,Won,31,0,30.0,0,29-35d
+590248000000,2024-11-11,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,Unknown,No,No,No,No,No,CN6267,1,2024,2024-12-02,Won,21,0,40.0,0,14-21d
+651142000000,2025-02-06,OUT_BOUND,Express,Yes,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Satisfied,80.0,100.0,100.0,Unknown,No,No,No,No,No,CO6677,1,2025,2025-03-08,Won,30,0,20.0,0,29-35d
+677411000000,2025-03-07,IN_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,Yes,No,No,No,No,No,Satisfied,50.0,90.0,90.0,90,No,No,No,No,No,CP1104,1,2025,2025-04-10,Won,34,0,40.0,0,29-35d
+625224000000,2025-02-05,OUT_BOUND,Not Discussed,No,Yes,Yes,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,90,No,No,No,No,No,CP1449,1,2025,2025-03-12,Won,35,0,40.0,0,29-35d
+689200000000,2025-05-12,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,Yes,No,No,No,No,No,No,No,Neutral,50.0,80.0,80.0,Unknown,No,No,No,No,No,CP3011,1,2025,2025-06-02,Won,21,0,30.0,0,14-21d
+591755000000,2024-05-12,OUT_BOUND,Not Discussed,No,No,Yes,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Neutral,50.0,80.0,80.0,Unknown,No,No,No,No,No,CP3065,1,2024,2024-06-02,Won,21,0,30.0,0,14-21d
+597369000000,2025-06-03,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Neutral,50.0,50.0,50.0,Unknown,No,No,No,No,No,CR7269,1,2025,2025-07-07,Won,34,0,0.0,0,29-35d
+684085000000,2025-03-10,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Not Relevant,No,No,No,No,No,No,No,No,No,Not Discussed,50.0,50.0,,Unknown,No,No,No,No,No,CS1332,1,2025,2025-04-03,Won,24,0,0.0,0,22-28d
+684557000000,2025-08-10,IN_BOUND,Not Discussed,No,No,No,No,No,No,Customer,Yes,No,Yes,No,Yes,No,No,No,No,Satisfied,80.0,100.0,95.0,90,No,No,No,No,No,CS5223,1,2025,2025-09-09,Won,30,0,20.0,0,29-35d
+686837000000,2025-05-11,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Agent,No,Yes,No,No,No,No,No,No,No,Neutral,50.0,80.0,80.0,Unknown,No,No,No,No,No,CU2364,1,2025,2025-06-05,Won,25,0,30.0,0,22-28d
+682477000000,2025-11-09,IN_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,Yes,No,No,No,No,No,No,Neutral,50.0,80.0,80.0,80,No,No,No,No,No,CV4320,1,2025,2025-12-09,Won,30,0,30.0,0,29-35d
+682477000000,2025-11-09,OUT_BOUND,Express,Yes,Yes,No,No,No,No,Customer,Yes,Yes,No,Yes,No,No,Yes,No,No,Neutral,50.0,80.0,75.0,75,Yes,Yes,No,No,No,CV4320,1,2025,2025-12-09,Won,30,0,30.0,0,29-35d
+591514000000,2024-02-12,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,Yes,No,No,No,No,No,No,No,Neutral,50.0,80.0,80.0,Unknown,No,No,No,No,No,CY8491,1,2024,2024-03-04,Won,21,0,30.0,0,14-21d
+595604000000,2025-07-02,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,Yes,No,No,No,No,No,No,No,Neutral,50.0,80.0,,Unknown,No,No,No,No,No,DB3887,1,2025,2025-08-05,Won,34,0,30.0,0,29-35d
+689718000000,2025-11-12,IN_BOUND,Not Discussed,No,Yes,No,No,Yes,No,Customer,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Satisfied,20.0,80.0,80.0,60,No,No,No,No,Yes,DE1664,1,2025,2025-12-09,Won,27,0,60.0,0,22-28d
+593825000000,2025-10-01,IN_BOUND,Not Discussed,No,Yes,No,No,No,No,Customer,No,Yes,No,Yes,No,No,No,No,No,Satisfied,50.0,90.0,90.0,Unknown,No,No,No,No,No,DI2533,1,2025,2025-11-05,Won,35,0,40.0,0,29-35d
+623175000000,2025-02-04,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Neutral,50.0,80.0,80.0,Unknown,No,No,No,No,No,DI3446,1,2025,2025-03-11,Won,35,0,30.0,0,29-35d
+686837000000,2025-06-11,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,Unknown,No,No,No,No,No,DI6269,1,2025,2025-07-01,Won,20,0,40.0,0,14-21d
+595925000000,2025-10-02,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,Yes,No,No,No,No,No,No,No,Neutral,50.0,60.0,60.0,Unknown,No,No,No,No,No,DJ5557,1,2025,2025-11-06,Won,35,0,10.0,0,29-35d
+591754000000,2024-05-12,IN_BOUND,Not Discussed,No,Yes,No,No,No,No,Customer,No,Yes,No,No,No,No,Yes,No,No,Satisfied,50.0,80.0,80.0,80,No,No,No,No,No,DL4444,1,2024,2024-06-05,Won,24,0,30.0,0,22-28d
+593549000000,2025-06-01,OUT_BOUND,Not Discussed,No,Yes,No,No,No,No,Customer,Yes,Yes,Yes,No,No,No,No,No,No,Satisfied,50.0,80.0,80.0,80,No,No,No,No,No,DN4865,1,2025,2025-07-04,Won,33,0,30.0,0,29-35d
+677576000000,2025-07-07,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Agent,Yes,No,No,Yes,No,Yes,Yes,No,No,Satisfied,50.0,80.0,80.0,80,No,No,No,No,Yes,DN8105,1,2025,2025-08-08,Won,32,0,30.0,0,29-35d
+689354000000,2025-08-12,OUT_BOUND,Express,Yes,No,No,No,No,No,Customer,No,Yes,No,Yes,No,No,No,No,No,Satisfied,50.0,90.0,90.0,90,No,No,No,No,No,DO4558,1,2025,2025-09-12,Won,31,0,40.0,0,29-35d
+682476000000,2025-10-09,OUT_BOUND,Standard,Yes,No,Yes,Yes,Yes,Yes,Agent,No,No,Yes,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,Unknown,Yes,No,No,No,No,DO8424,1,2025,2025-11-11,Won,33,0,40.0,0,29-35d
+590065000000,2024-07-11,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,Unknown,No,No,No,No,No,DP0294,1,2024,2024-08-06,Won,26,0,40.0,0,22-28d
+592073000000,2024-11-12,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Not Relevant,No,No,No,No,No,No,No,No,No,Not Discussed,50.0,50.0,,Unknown,No,No,No,No,No,DQ9290,1,2024,2024-12-10,Won,28,0,0.0,0,22-28d
+592073000000,2024-11-12,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Neutral,50.0,50.0,,Unknown,No,No,No,No,No,DQ9290,1,2024,2024-12-10,Won,28,0,0.0,0,22-28d
+682341000000,2025-09-09,OUT_BOUND,Not Discussed,No,No,Yes,No,No,No,Agent,No,No,No,No,No,No,No,No,No,Neutral,50.0,80.0,80.0,Unknown,No,No,No,No,No,DS2488,1,2025,2025-10-10,Won,31,0,30.0,0,29-35d
+689718000000,2025-11-12,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,Yes,No,No,No,No,No,No,No,Neutral,50.0,50.0,50.0,Unknown,No,No,No,No,No,DS5781,1,2025,2025-12-10,Won,28,0,0.0,0,22-28d
+679459000000,2025-01-08,IN_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,Yes,No,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,Unknown,No,No,No,No,No,DT0301,1,2025,2025-02-08,Won,31,0,40.0,0,29-35d
+684210000000,2025-06-10,OUT_BOUND,Express,Yes,No,No,No,No,No,Agent,No,No,No,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,Unknown,No,No,No,No,No,DX6950,1,2025,2025-07-10,Won,30,0,40.0,0,29-35d
+686663000000,2025-04-11,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,Yes,No,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,Unknown,No,No,No,No,No,EA9555,1,2025,2025-05-03,Won,22,0,40.0,0,22-28d
+684787000000,2025-10-10,OUT_BOUND,Not Discussed,No,No,Yes,No,No,No,Customer,Yes,Yes,Yes,No,No,No,No,No,No,Neutral,50.0,50.0,,Unknown,No,No,No,No,No,EB2671,1,2025,2025-11-08,Won,29,0,0.0,0,29-35d
+625380000000,2025-06-05,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Agent,Yes,No,No,No,No,No,No,No,No,Satisfied,50.0,100.0,100.0,Unknown,No,No,No,No,No,EI7469,1,2025,2025-07-07,Won,32,0,50.0,0,29-35d
+623476000000,2025-07-04,OUT_BOUND,Standard,Yes,No,Yes,No,No,No,Agent,No,No,No,No,No,Yes,No,No,No,Satisfied,50.0,90.0,85.0,Unknown,No,No,No,No,No,EK5234,1,2025,2025-08-12,Churned,39,1,40.0,0,36-45d
+625512000000,2025-07-05,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Satisfied,50.0,80.0,80.0,Unknown,No,No,No,No,No,EK5234,1,2025,2025-08-12,Churned,38,1,30.0,0,36-45d
+593549000000,2025-06-01,IN_BOUND,Not Discussed,No,Yes,No,No,No,No,Customer,No,No,No,No,Yes,No,Yes,No,No,Neutral,50.0,80.0,70.0,70,Yes,No,No,No,No,EK8023,1,2025,2025-07-01,Won,30,0,30.0,0,29-35d
+590249000000,2024-12-11,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Not Relevant,No,No,No,No,No,No,No,No,No,Not Discussed,50.0,50.0,,Unknown,No,No,No,No,No,EL8176,1,2024,2025-01-11,Won,31,0,0.0,0,29-35d
+623775000000,2025-10-04,OUT_BOUND,Not Discussed,No,No,No,Yes,Yes,Yes,Agent,Yes,No,No,No,No,Yes,No,No,No,Neutral,50.0,80.0,70.0,60,Yes,Yes,No,No,Yes,EL8778,1,2025,2025-11-06,Won,33,0,30.0,0,29-35d
+597237000000,2025-03-03,IN_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,Yes,No,Yes,No,No,Satisfied,20.0,60.0,40.0,40,Yes,Yes,No,No,Yes,EM7258,1,2025,2025-04-11,Won,39,0,40.0,0,36-45d
+597369000000,2025-06-03,IN_BOUND,Express,Yes,No,No,No,No,No,Customer,No,No,No,No,Yes,No,No,No,No,Satisfied,50.0,90.0,90.0,90,Yes,No,No,No,No,EO1120,1,2025,2025-07-11,Won,38,0,40.0,0,36-45d
+651408000000,2025-06-06,OUT_BOUND,Standard,Yes,No,No,No,No,No,Agent,No,No,No,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,Unknown,No,No,No,No,No,ES7689,1,2025,2025-07-04,Won,28,0,40.0,0,22-28d
+684558000000,2025-09-10,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,Yes,No,No,No,No,No,No,No,Neutral,50.0,80.0,80.0,Unknown,No,No,No,No,No,EU8775,1,2025,2025-10-05,Won,25,0,30.0,0,22-28d
+590249000000,2024-11-11,IN_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,Yes,No,Yes,No,No,No,No,No,Satisfied,50.0,90.0,90.0,90,No,No,No,No,No,EV1717,1,2024,2024-12-05,Won,24,0,40.0,0,22-28d
+595466000000,2025-05-02,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,Yes,No,No,No,No,No,No,No,Satisfied,80.0,90.0,85.0,90,No,No,No,No,No,EV3722,1,2025,2025-06-02,Won,31,0,10.0,0,29-35d
+679806000000,2025-05-08,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,Yes,No,No,No,No,No,No,No,Neutral,50.0,80.0,80.0,80,No,No,No,No,No,EX8997,1,2025,2025-06-08,Churned,31,1,30.0,0,29-35d
+621541000000,2025-07-03,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,Yes,No,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,Unknown,No,No,No,No,No,EY9148,1,2025,2025-08-12,Won,40,0,40.0,0,36-45d
+679955000000,2025-06-08,IN_BOUND,Standard,Yes,No,No,No,No,No,Customer,No,No,Yes,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,90,No,No,No,No,No,FB0345,1,2025,2025-07-11,Won,33,0,40.0,0,29-35d
+623175000000,2025-02-04,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,Yes,No,No,No,No,No,No,No,Satisfied,50.0,80.0,80.0,Unknown,No,No,No,No,No,FB2093,1,2025,2025-03-09,Won,33,0,30.0,0,29-35d
+687353000000,2025-12-11,IN_BOUND,Not Discussed,No,No,No,No,No,No,Customer,Yes,No,No,No,No,Yes,Yes,No,No,Satisfied,50.0,100.0,100.0,100,No,No,No,No,No,FC6556,1,2025,2026-01-02,Won,22,0,50.0,0,22-28d
+679955000000,2025-06-08,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,Yes,No,Yes,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,90,No,No,No,No,No,FC7866,1,2025,2025-07-12,Won,34,0,40.0,0,29-35d
+689354000000,2025-08-12,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Neutral,50.0,80.0,70.0,Unknown,No,No,No,No,No,FE8889,1,2025,2025-09-11,Won,30,0,30.0,0,29-35d
+623634000000,2025-09-04,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,Yes,No,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,Unknown,No,No,No,No,No,FF7115,1,2025,2025-10-07,Won,33,0,40.0,0,29-35d
+689008000000,2025-02-12,IN_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,Yes,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,90,Yes,No,No,No,No,FJ4419,1,2025,2025-03-02,Won,18,0,40.0,0,14-21d
+593825000000,2025-10-01,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Not Relevant,No,No,No,No,No,No,No,No,No,Not Discussed,50.0,50.0,,Unknown,No,No,No,No,No,FJ4538,1,2025,2025-11-07,Won,37,0,0.0,0,36-45d
+686662000000,2025-03-11,OUT_BOUND,Not Discussed,Yes,Yes,No,No,No,No,Agent,Yes,No,No,No,No,No,No,No,No,Neutral,50.0,60.0,55.0,Unknown,No,No,No,No,No,FL8438,1,2025,2025-04-06,Won,26,0,10.0,0,22-28d
+687158000000,2025-10-11,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Agent,Yes,No,No,No,No,No,Yes,No,No,Satisfied,50.0,80.0,80.0,Unknown,No,No,No,No,No,FN6124,1,2025,2025-11-04,Won,24,0,30.0,0,22-28d
+590249000000,2024-12-11,IN_BOUND,Not Discussed,No,No,No,No,No,No,Customer,Yes,Yes,No,No,No,No,No,No,No,Satisfied,80.0,90.0,85.0,85,No,No,No,No,No,FN7209,1,2024,2025-01-11,Won,31,0,10.0,0,29-35d
+687352000000,2025-11-11,IN_BOUND,Not Discussed,No,No,No,No,Yes,No,Customer,No,No,No,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,90,No,No,No,No,Yes,FN7585,1,2025,2025-12-10,Won,29,0,40.0,0,29-35d
+684416000000,2025-06-10,IN_BOUND,Not Discussed,No,No,No,No,No,No,Customer,Yes,No,No,No,No,No,No,No,No,Neutral,50.0,90.0,80.0,80,No,No,No,No,Yes,FT2776,1,2025,2025-07-02,Won,22,0,40.0,0,22-28d
+595925000000,2025-11-02,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,Unknown,No,No,No,No,No,FT7919,1,2025,2025-12-03,Won,31,0,40.0,0,29-35d
+651251000000,2025-03-06,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Satisfied,50.0,80.0,80.0,Unknown,No,No,No,No,No,FU3018,1,2025,2025-04-09,Won,34,0,30.0,0,29-35d
+687352000000,2025-11-11,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Not Relevant,No,No,No,No,No,No,No,No,No,Satisfied,50.0,50.0,,Unknown,No,No,No,No,No,FV1531,1,2025,2025-12-02,Won,21,0,0.0,0,14-21d
+590249000000,2024-12-11,IN_BOUND,Not Discussed,No,No,Yes,No,No,No,Customer,Yes,No,Yes,No,No,No,Yes,No,No,Satisfied,50.0,90.0,90.0,90,No,No,No,No,No,FW0890,1,2024,2025-01-06,Won,26,0,40.0,0,22-28d
+590249000000,2024-12-11,IN_BOUND,Not Discussed,No,No,Yes,No,Yes,No,Customer,Yes,Yes,Yes,No,No,No,No,No,No,Neutral,50.0,80.0,70.0,70,No,No,No,No,No,FW0890,1,2024,2025-01-06,Won,26,0,30.0,0,22-28d
+621700000000,2025-11-03,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,Yes,No,No,No,No,No,No,No,Satisfied,80.0,100.0,100.0,100,No,No,No,No,No,FZ1933,1,2025,2025-12-09,Won,36,0,20.0,0,36-45d
+595925000000,2025-11-02,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Agent,No,No,No,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,Unknown,No,No,No,No,No,GA9513,1,2025,2025-12-12,Won,40,0,40.0,0,36-45d
+591634000000,2024-03-12,IN_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,Unknown,No,No,No,No,No,GC2165,1,2024,2024-04-07,Won,26,0,40.0,0,22-28d
+689552000000,2025-08-12,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,Unknown,No,No,No,No,No,GE4269,1,2025,2025-09-02,Won,21,0,40.0,0,14-21d
+590065000000,2024-07-11,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,Yes,No,Yes,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,90,No,No,No,No,No,GE7690,1,2024,2024-08-07,Won,27,0,40.0,0,22-28d
+684210000000,2025-06-10,OUT_BOUND,Not Discussed,No,No,Yes,No,No,No,Agent,No,No,No,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,Unknown,No,No,No,No,No,GK8087,1,2025,2025-07-03,Won,23,0,40.0,0,22-28d
+623175000000,2025-02-04,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Agent,No,No,No,No,No,No,No,No,No,Satisfied,80.0,90.0,90.0,Unknown,No,No,No,No,No,GL1087,1,2025,2025-03-09,Won,33,0,10.0,0,29-35d
+623175000000,2025-02-04,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,Yes,No,No,No,No,No,No,No,Neutral,50.0,80.0,80.0,Unknown,No,No,No,No,No,GL1087,1,2025,2025-03-09,Won,33,0,30.0,0,29-35d
+591754000000,2024-05-12,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Agent,Yes,No,No,No,No,No,No,No,No,Neutral,50.0,80.0,80.0,Unknown,No,No,No,No,No,GS6096,1,2024,2024-06-11,Won,30,0,30.0,0,29-35d
+686663000000,2025-04-11,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Agent,No,No,No,No,No,No,No,No,No,Neutral,50.0,80.0,80.0,Unknown,No,No,No,No,No,GU0217,1,2025,2025-05-03,Won,22,0,30.0,0,22-28d
+595604000000,2025-07-02,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Satisfied,50.0,90.0,85.0,Unknown,No,No,No,No,No,GW8600,1,2025,2025-08-12,Won,41,0,40.0,0,36-45d
+593696000000,2025-07-01,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Satisfied,50.0,100.0,100.0,Unknown,No,No,No,No,No,HF6362,1,2025,2025-08-10,Won,40,0,50.0,0,36-45d
+623634000000,2025-09-04,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Agent,No,No,No,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,Unknown,No,No,No,No,No,HN5976,1,2025,2025-10-09,Won,35,0,40.0,0,29-35d
+593549000000,2025-06-01,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Neutral,50.0,80.0,80.0,Unknown,No,No,No,No,No,HP2120,1,2025,2025-07-06,Won,35,0,30.0,0,29-35d
+597368000000,2025-05-03,OUT_BOUND,Express,Yes,No,No,No,No,No,Agent,No,No,No,No,No,No,No,No,No,Neutral,50.0,80.0,80.0,Unknown,No,No,No,No,No,HR2516,1,2025,2025-06-06,Won,34,0,30.0,0,29-35d
+677794000000,2025-07-07,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Neutral,50.0,80.0,80.0,Unknown,No,No,No,No,No,HR3499,1,2025,2025-08-08,Won,32,0,30.0,0,29-35d
+623174000000,2025-01-04,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Agent,Yes,No,Yes,No,No,No,No,No,No,Neutral,50.0,80.0,80.0,Unknown,No,No,No,No,No,HR9925,1,2025,2025-02-07,Won,34,0,30.0,0,29-35d
+682477000000,2025-11-09,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Not Relevant,No,No,No,No,No,No,No,No,No,Not Discussed,0.0,0.0,,Unknown,No,No,No,No,No,HS6968,1,2025,2025-12-09,Churned,30,1,0.0,0,29-35d
+590066000000,2024-08-11,IN_BOUND,Assisted,Yes,Yes,No,No,Yes,Yes,Customer,No,No,No,No,No,No,No,No,No,Satisfied,80.0,90.0,85.0,90,Yes,No,No,No,No,HS8682,1,2024,2024-09-11,Won,31,0,10.0,0,29-35d
+590249000000,2024-11-11,OUT_BOUND,Not Discussed,No,No,Yes,Yes,Yes,No,Agent,Yes,No,No,No,No,No,Yes,No,Yes,Satisfied,20.0,80.0,80.0,80,Yes,Yes,No,No,Yes,HV2990,1,2024,2024-12-02,Won,21,0,60.0,0,14-21d
+689009000000,2025-03-12,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,Unknown,No,No,No,No,No,HX4417,1,2025,2025-04-06,Won,25,0,40.0,0,22-28d
+623305000000,2025-04-04,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Neutral,50.0,50.0,,Unknown,No,No,No,No,No,IB4676,1,2025,2025-05-10,Won,36,0,0.0,0,36-45d
+589929000000,2024-06-11,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Agent,No,No,No,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,Unknown,No,No,No,No,No,IH7320,1,2024,2024-07-03,Won,22,0,40.0,0,22-28d
+591755000000,2024-06-12,OUT_BOUND,Not Discussed,No,Yes,No,No,Yes,No,Agent,No,Yes,No,No,No,No,No,No,No,Neutral,60.0,80.0,80.0,Unknown,No,No,No,No,No,IH7320,1,2024,2024-07-03,Won,21,0,20.0,0,14-21d
+651251000000,2025-03-06,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Agent,No,No,No,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,Unknown,No,No,No,No,No,IJ9547,1,2025,2025-04-11,Won,36,0,40.0,0,36-45d
+623304000000,2025-03-04,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Neutral,50.0,80.0,80.0,Unknown,No,No,No,No,No,IL2931,1,2025,2025-04-05,Won,32,0,30.0,0,29-35d
+651565000000,2025-06-06,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,Yes,Yes,Yes,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,90,No,No,No,No,No,IL7463,1,2025,2025-07-12,Won,36,0,40.0,0,36-45d
+589778000000,2024-01-11,IN_BOUND,Standard,Yes,Yes,No,No,Yes,No,Customer,No,Yes,No,No,No,No,Yes,No,No,Neutral,50.0,80.0,80.0,80,Yes,No,No,No,No,IM9050,1,2024,2024-02-07,Won,27,0,30.0,0,22-28d
+679806000000,2025-06-08,OUT_BOUND,Not Discussed,No,No,No,Yes,Yes,Yes,Customer,Yes,No,No,No,No,No,Yes,No,No,Neutral,50.0,80.0,80.0,80,Yes,No,No,Yes,No,IQ5660,1,2025,2025-07-09,Won,31,0,30.0,0,29-35d
+686662000000,2025-03-11,OUT_BOUND,Not Discussed,No,No,Yes,Yes,No,No,Agent,No,No,No,No,No,No,No,No,No,Neutral,50.0,80.0,80.0,Unknown,Yes,No,No,No,No,IR1427,1,2025,2025-04-12,Won,32,0,30.0,0,29-35d
+621541000000,2025-07-03,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Neutral,50.0,80.0,80.0,Unknown,No,No,No,No,No,IR3801,1,2025,2025-08-05,Won,33,0,30.0,0,29-35d
+593696000000,2025-07-01,OUT_BOUND,Standard,Yes,Yes,No,No,No,No,Customer,No,Yes,No,No,No,No,No,No,No,Neutral,50.0,80.0,80.0,80,Yes,No,No,No,No,IU8292,1,2025,2025-08-06,Won,36,0,30.0,0,36-45d
+684417000000,2025-08-10,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,Unknown,No,No,No,No,No,IU8809,1,2025,2025-09-12,Won,33,0,40.0,0,29-35d
+651743000000,2025-10-06,IN_BOUND,Express,Yes,Yes,No,No,Yes,No,Customer,No,Yes,No,No,No,Yes,Yes,No,No,Satisfied,60.0,40.0,40.0,40,Yes,Yes,No,No,Yes,IV0862,1,2025,2025-11-06,Won,31,0,-20.0,0,29-35d
+591633000000,2024-03-12,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,Yes,No,No,No,No,Neutral,50.0,80.0,80.0,Unknown,No,No,No,No,No,IX5538,1,2024,2024-04-03,Won,22,0,30.0,0,22-28d
+623476000000,2025-07-04,IN_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Satisfied,80.0,100.0,95.0,Unknown,No,No,No,No,No,JA2412,1,2025,2025-08-12,Won,39,0,20.0,0,36-45d
+684787000000,2025-10-10,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,Yes,No,No,No,No,No,No,No,Neutral,50.0,80.0,80.0,Unknown,No,No,No,No,No,JD2042,1,2025,2025-11-04,Won,25,0,30.0,0,22-28d
+687159000000,2025-10-11,IN_BOUND,Not Discussed,No,No,No,No,Yes,No,Customer,Yes,No,Yes,No,No,Yes,Yes,No,No,Satisfied,20.0,80.0,80.0,80,No,No,No,No,Yes,JD2042,1,2025,2025-11-04,Won,24,0,60.0,0,22-28d
+590248000000,2024-11-11,IN_BOUND,Not Discussed,No,Yes,No,No,No,No,Customer,Yes,Yes,No,No,No,No,No,No,No,Neutral,50.0,80.0,80.0,80,No,No,No,No,Yes,JF7573,1,2024,2024-12-09,Won,28,0,30.0,0,22-28d
+591634000000,2024-04-12,IN_BOUND,Not Discussed,No,Yes,No,No,No,No,Customer,Yes,Unknown,Yes,Yes,No,No,Yes,Yes,No,Satisfied,50.0,90.0,90.0,80,No,No,No,No,No,JH7467,1,2024,2024-05-04,Won,22,0,40.0,0,22-28d
+591633000000,2024-03-12,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Not Relevant,Yes,No,Yes,No,No,No,No,No,No,Satisfied,80.0,90.0,90.0,90,No,No,No,No,No,JJ5868,1,2024,2024-04-12,Won,31,0,10.0,0,29-35d
+684084000000,2025-02-10,OUT_BOUND,Express,Yes,Yes,No,No,No,No,Agent,No,No,No,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,90,No,No,No,No,No,JK7351,1,2025,2025-03-10,Won,28,0,40.0,0,22-28d
+684787000000,2025-10-10,OUT_BOUND,Not Discussed,No,No,No,No,Yes,No,Customer,Yes,No,Yes,No,Yes,No,Yes,No,No,Neutral,50.0,80.0,70.0,70,No,No,No,No,No,JR2235,1,2025,2025-11-02,Won,23,0,30.0,0,22-28d
+651742000000,2025-09-06,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Neutral,50.0,50.0,50.0,Unknown,No,No,No,No,No,JR7790,1,2025,2025-10-12,Churned,36,1,0.0,0,36-45d
+651406000000,2025-05-06,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Agent,No,Yes,No,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,Unknown,No,No,No,No,No,JR8095,1,2025,2025-06-12,Won,37,0,40.0,0,36-45d
+686663000000,2025-04-11,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,Unknown,No,No,No,No,No,JY1545,1,2025,2025-05-03,Won,22,0,40.0,0,22-28d
+689718000000,2025-11-12,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,Yes,No,No,No,No,No,No,No,Neutral,50.0,80.0,80.0,Unknown,No,No,No,No,No,JY7520,1,2025,2025-12-02,Won,20,0,30.0,0,14-21d
+651252000000,2025-03-06,OUT_BOUND,Standard,Yes,Yes,No,No,No,No,Agent,No,Yes,No,No,No,No,No,No,No,Neutral,50.0,80.0,80.0,Unknown,No,No,No,No,No,KF9172,1,2025,2025-04-09,Won,34,0,30.0,0,29-35d
+589779000000,2024-04-11,OUT_BOUND,Not Discussed,No,No,No,No,Yes,No,Customer,No,No,No,No,No,No,No,No,No,Neutral,50.0,80.0,80.0,Unknown,Yes,No,No,No,No,KI7590,1,2024,2024-05-09,Won,28,0,30.0,0,22-28d
+682476000000,2025-10-09,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,Yes,No,No,No,No,Satisfied,80.0,90.0,85.0,Unknown,No,No,No,No,No,KK9504,1,2025,2025-11-09,Won,31,0,10.0,0,29-35d
+621541000000,2025-07-03,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,Yes,No,No,No,No,No,No,No,Satisfied,50.0,90.0,80.0,80,No,No,No,No,No,KM8884,1,2025,2025-08-08,Won,36,0,40.0,0,36-45d
+683926000000,2025-01-10,IN_BOUND,Standard,Yes,Yes,No,No,No,No,Customer,Yes,No,No,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,90,Yes,No,No,No,No,KN3549,1,2025,2025-02-05,Won,26,0,40.0,0,22-28d
+683926000000,2025-01-10,IN_BOUND,Express,Yes,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Satisfied,80.0,90.0,85.0,85,Yes,No,No,No,No,KN3549,1,2025,2025-02-05,Won,26,0,10.0,0,22-28d
+595747000000,2025-10-02,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Not Relevant,No,No,No,No,No,No,No,No,No,Not Discussed,50.0,0.0,,Unknown,No,No,No,No,No,KP7104,1,2025,2025-11-07,Won,36,0,-50.0,0,36-45d
+682151000000,2025-08-09,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Neutral,50.0,80.0,80.0,Unknown,No,No,No,No,No,KQ0719,1,2025,2025-09-10,Won,32,0,30.0,0,29-35d
+651877000000,2025-11-06,IN_BOUND,Not Discussed,No,No,No,No,No,No,Customer,Yes,Yes,Yes,No,No,No,Yes,No,No,Satisfied,50.0,90.0,90.0,90,No,No,No,No,No,KQ8921,1,2025,2025-12-07,Won,31,0,40.0,0,29-35d
+686662000000,2025-03-11,OUT_BOUND,Standard,Yes,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Satisfied,80.0,90.0,85.0,Unknown,No,No,No,No,No,KS9953,1,2025,2025-04-04,Won,24,0,10.0,0,22-28d
+595302000000,2025-03-02,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Agent,No,No,No,No,No,No,No,No,No,Neutral,50.0,80.0,80.0,Unknown,No,No,No,No,No,KT6167,1,2025,2025-04-07,Won,36,0,30.0,0,36-45d
+590249000000,2024-11-11,OUT_BOUND,Standard,Yes,Yes,No,No,No,No,Agent,No,No,No,No,No,No,No,No,No,Neutral,50.0,80.0,80.0,Unknown,No,No,No,No,No,KT9035,1,2024,2024-12-04,Won,23,0,30.0,0,22-28d
+593549000000,2025-06-01,OUT_BOUND,Not Discussed,No,No,Yes,No,No,No,Agent,No,No,No,No,No,No,No,No,No,Satisfied,80.0,90.0,90.0,Unknown,Yes,No,No,No,No,KW5029,1,2025,2025-07-09,Won,38,0,10.0,0,36-45d
+593696000000,2025-07-01,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,Unknown,No,No,No,No,No,KW8299,1,2025,2025-08-10,Won,40,0,40.0,0,36-45d
+689553000000,2025-09-12,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Neutral,50.0,90.0,80.0,Unknown,No,No,No,No,No,KX1884,1,2025,2025-10-09,Won,27,0,40.0,0,22-28d
+687352000000,2025-11-11,IN_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,Yes,No,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,90,No,No,No,No,No,KX5133,1,2025,2025-12-12,Won,31,0,40.0,0,29-35d
+623026000000,2025-01-04,IN_BOUND,Assisted,Yes,Yes,No,No,Yes,No,Customer,No,Yes,No,Yes,Yes,No,No,No,No,Neutral,60.0,80.0,80.0,80,Yes,No,No,No,No,KX9807,1,2025,2025-02-06,Won,33,0,20.0,0,29-35d
+651566000000,2025-09-06,OUT_BOUND,Not Discussed,No,No,Yes,No,No,Yes,Customer,No,No,No,No,Yes,No,Yes,No,No,Satisfied,80.0,90.0,90.0,90,Yes,Yes,No,No,Yes,LC9616,1,2025,2025-10-08,Won,32,0,10.0,0,29-35d
+684558000000,2025-09-10,IN_BOUND,Not Discussed,No,No,No,No,No,No,Customer,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Satisfied,20.0,80.0,80.0,60,No,No,No,No,Yes,LD3505,1,2025,2025-10-01,Won,21,0,60.0,0,14-21d
+651251000000,2025-03-06,IN_BOUND,Standard,Yes,No,Yes,No,No,No,Customer,No,Yes,No,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,90,Yes,No,No,No,No,LH7637,1,2025,2025-04-10,Won,35,0,40.0,0,29-35d
+651251000000,2025-03-06,IN_BOUND,Standard,Yes,No,Yes,No,No,No,Customer,No,Yes,No,No,Yes,No,No,No,No,Satisfied,80.0,90.0,85.0,85,No,No,No,No,No,LH7637,1,2025,2025-04-10,Won,35,0,10.0,0,29-35d
+595604000000,2025-07-02,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,Unknown,No,No,No,No,No,LJ4944,1,2025,2025-08-02,Churned,31,1,40.0,0,29-35d
+592073000000,2024-11-12,OUT_BOUND,Not Discussed,No,No,No,No,Yes,No,Agent,No,No,No,No,No,No,No,No,No,Satisfied,80.0,90.0,90.0,Unknown,No,No,No,No,No,LJ9510,1,2024,2024-12-03,Won,21,0,10.0,0,14-21d
+680144000000,2025-08-08,IN_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,Yes,No,No,No,No,Satisfied,50.0,80.0,80.0,80,No,No,No,No,No,LK0989,1,2025,2025-09-08,Won,31,0,30.0,0,29-35d
+651406000000,2025-05-06,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,90,No,No,No,No,No,LL4222,1,2025,2025-06-08,Won,33,0,40.0,0,29-35d
+684210000000,2025-06-10,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Neutral,50.0,80.0,80.0,Unknown,No,No,No,No,No,LM0197,1,2025,2025-07-02,Won,22,0,30.0,0,22-28d
+621699000000,2025-10-03,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,Unknown,No,No,No,No,No,LP4374,1,2025,2025-11-11,Won,39,0,40.0,0,36-45d
+689200000000,2025-05-12,OUT_BOUND,Standard,Yes,No,Yes,No,No,No,Agent,No,No,No,No,No,No,No,No,No,Neutral,50.0,80.0,80.0,Unknown,No,No,No,No,No,LR0626,1,2025,2025-06-11,Won,30,0,30.0,0,29-35d
+689200000000,2025-05-12,OUT_BOUND,Standard,Yes,No,No,No,No,No,Agent,No,No,No,No,No,No,No,No,No,Not Discussed,50.0,50.0,,Unknown,No,No,No,No,No,LR0626,1,2025,2025-06-11,Won,30,0,0.0,0,29-35d
+625080000000,2025-01-05,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,Unknown,No,No,No,No,No,LR9347,1,2025,2025-02-05,Won,31,0,40.0,0,29-35d
+651407000000,2025-05-06,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Agent,Yes,Yes,No,No,Yes,No,No,No,No,Satisfied,50.0,90.0,90.0,90,No,No,No,No,No,LU7777,1,2025,2025-06-10,Won,35,0,40.0,0,29-35d
+623304000000,2025-03-04,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,Yes,Yes,No,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,90,No,No,No,No,No,LV4611,1,2025,2025-04-12,Won,39,0,40.0,0,36-45d
+621541000000,2025-07-03,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Neutral,50.0,80.0,80.0,Unknown,No,No,No,No,No,LV9891,1,2025,2025-08-03,Won,31,0,30.0,0,29-35d
+589779000000,2024-04-11,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Neutral,50.0,50.0,,Unknown,No,No,No,No,No,LW7269,1,2024,2024-05-03,Won,22,0,0.0,0,22-28d
+686837000000,2025-06-11,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Neutral,50.0,50.0,50.0,Unknown,No,No,No,No,No,MB4340,1,2025,2025-07-03,Won,22,0,0.0,0,22-28d
+595466000000,2025-05-02,OUT_BOUND,Express,Yes,No,No,No,No,No,Customer,Yes,Yes,No,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,Unknown,No,No,No,No,No,MC8816,1,2025,2025-06-02,Won,31,0,40.0,0,29-35d
+590065000000,2024-07-11,OUT_BOUND,Standard,Yes,No,No,No,Yes,No,Agent,No,No,No,No,No,No,No,No,No,Neutral,50.0,80.0,70.0,Unknown,No,No,No,No,No,ME9963,1,2024,2024-08-01,Won,21,0,30.0,0,14-21d
+684787000000,2025-10-10,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,Yes,No,No,No,No,No,No,No,Neutral,50.0,50.0,50.0,Unknown,No,No,No,No,No,MF5768,1,2025,2025-11-02,Won,23,0,0.0,0,22-28d
+651407000000,2025-05-06,OUT_BOUND,Not Discussed,No,No,No,No,Yes,No,Agent,No,No,No,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,Unknown,No,No,No,Yes,No,MF7392,1,2025,2025-06-07,Won,32,0,40.0,0,29-35d
+684086000000,2025-03-10,IN_BOUND,Premier,Yes,No,No,No,No,No,Customer,Yes,No,Yes,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,90,No,No,No,No,No,MR4588,1,2025,2025-04-12,Won,33,0,40.0,0,29-35d
+623174000000,2025-01-04,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Not Discussed,50.0,,,Unknown,No,No,No,No,No,MS6547,1,2025,2025-02-05,Won,32,0,,0,29-35d
+686971000000,2025-07-11,IN_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,Yes,No,No,No,No,No,Satisfied,50.0,100.0,100.0,100,No,No,No,No,No,MX2197,1,2025,2025-08-12,Won,32,0,50.0,0,29-35d
+684210000000,2025-06-10,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Satisfied,80.0,90.0,85.0,Unknown,No,No,No,No,No,MZ4069,1,2025,2025-07-12,Won,32,0,10.0,0,29-35d
+684084000000,2025-02-10,OUT_BOUND,Not Discussed,No,No,Yes,No,No,No,Customer,Yes,No,No,No,No,No,No,No,No,Neutral,50.0,70.0,60.0,Unknown,No,No,No,No,No,NA9151,1,2025,2025-03-03,Won,21,0,20.0,0,14-21d
+593696000000,2025-07-01,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Satisfied,50.0,80.0,80.0,Unknown,No,No,No,No,No,NB7021,1,2025,2025-08-09,Won,39,0,30.0,0,36-45d
+623304000000,2025-03-04,IN_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,Yes,No,No,No,No,No,No,No,Satisfied,50.0,90.0,80.0,80,No,No,No,No,No,NB7023,1,2025,2025-04-10,Won,37,0,40.0,0,36-45d
+677411000000,2025-03-07,OUT_BOUND,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,No,No,No,No,No,No,No,No,No,Neutral,50.0,80.0,80.0,Unknown,No,No,No,No,No,NE1746,1,2025,2025-04-07,Won,31,0,30.0,0,29-35d
+684085000000,2025-03-10,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Neutral,50.0,50.0,,Unknown,No,No,No,No,No,NE1746,1,2025,2025-04-07,Won,28,0,0.0,0,22-28d
+623775000000,2025-10-04,OUT_BOUND,Standard,Yes,No,Yes,Yes,Yes,Yes,Agent,Yes,No,No,No,No,No,No,No,No,Satisfied,80.0,90.0,85.0,90,No,No,No,No,No,NJ3620,1,2025,2025-11-05,Won,32,0,10.0,0,29-35d
+651142000000,2025-02-06,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Neutral,50.0,80.0,80.0,Unknown,No,No,No,No,No,NK1026,1,2025,2025-03-11,Won,33,0,30.0,0,29-35d
+677410000000,2025-02-07,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Satisfied,80.0,90.0,85.0,Unknown,No,No,No,No,No,NK1026,1,2025,2025-03-11,Won,32,0,10.0,0,29-35d
+593390000000,2025-02-01,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Not Relevant,No,No,No,No,No,No,No,No,No,Not Discussed,50.0,50.0,,Unknown,No,No,No,No,No,NN0313,1,2025,2025-03-08,Won,35,0,0.0,0,29-35d
+593390000000,2025-02-01,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Not Relevant,No,No,No,No,No,No,No,No,No,Not Discussed,50.0,50.0,,Unknown,No,No,No,No,No,NN0313,1,2025,2025-03-08,Won,35,0,0.0,0,29-35d
+593390000000,2025-02-01,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Not Relevant,No,No,No,No,No,No,No,No,No,Not Discussed,50.0,50.0,,Unknown,No,No,No,No,No,NN0313,1,2025,2025-03-08,Won,35,0,0.0,0,29-35d
+689200000000,2025-05-12,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,Yes,Yes,Yes,No,No,No,No,No,No,Neutral,50.0,80.0,80.0,Unknown,No,No,No,No,No,NN5057,1,2025,2025-06-11,Won,30,0,30.0,0,29-35d
+686970000000,2025-07-11,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Not Discussed,50.0,50.0,,Unknown,No,No,No,No,No,NO4515,1,2025,2025-08-04,Won,24,0,0.0,0,22-28d
+593549000000,2025-06-01,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Neutral,50.0,80.0,80.0,Unknown,No,No,No,No,No,NP3240,1,2025,2025-07-04,Won,33,0,30.0,0,29-35d
+689718000000,2025-11-12,OUT_BOUND,Express,Yes,No,No,No,No,No,Customer,No,No,No,No,No,No,Yes,No,No,Neutral,60.0,80.0,80.0,80,Yes,Yes,No,No,No,NQ6273,1,2025,2025-12-02,Won,20,0,20.0,0,14-21d
+684787000000,2025-10-10,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Agent,Yes,No,No,No,No,No,Yes,No,No,Neutral,50.0,80.0,80.0,Unknown,Yes,No,No,No,No,NS6625,1,2025,2025-11-03,Won,24,0,30.0,0,22-28d
+684558000000,2025-09-10,OUT_BOUND,Not Discussed,No,No,Yes,No,Yes,No,Customer,No,Yes,No,No,No,No,Yes,No,No,Satisfied,50.0,90.0,85.0,85,No,No,No,No,No,NT7352,1,2025,2025-10-07,Won,27,0,40.0,0,22-28d
+684558000000,2025-09-10,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Not Relevant,No,No,No,No,No,No,No,No,No,Not Discussed,50.0,50.0,,Unknown,No,No,No,No,No,NT7352,1,2025,2025-10-07,Won,27,0,0.0,0,22-28d
+591754000000,2024-04-12,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Not Relevant,No,No,No,No,No,No,No,No,No,Not Discussed,50.0,50.0,,Unknown,No,No,No,No,No,NT7458,1,2024,2024-05-06,Won,24,0,0.0,0,22-28d
+591754000000,2024-04-12,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Agent,No,No,No,No,No,No,No,No,No,Not Discussed,50.0,50.0,,Unknown,No,No,No,No,No,NT7458,1,2024,2024-05-06,Won,24,0,0.0,0,22-28d
+677235000000,2025-01-07,OUT_BOUND,Standard,Yes,No,No,No,No,No,Agent,Yes,Yes,Yes,No,No,Yes,No,No,No,Not Discussed,50.0,50.0,,Unknown,No,No,No,No,No,NU0776,1,2025,2025-02-08,Won,32,0,0.0,0,29-35d
+593697000000,2025-08-01,IN_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,Unknown,No,No,No,No,No,No,Satisfied,80.0,90.0,85.0,90,Yes,No,No,No,No,NU4590,1,2025,2025-09-09,Won,39,0,10.0,0,36-45d
+689552000000,2025-08-12,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Agent,No,Unknown,No,No,No,No,No,No,No,Satisfied,80.0,90.0,85.0,Unknown,No,No,No,No,No,NV1403,1,2025,2025-09-01,Won,20,0,10.0,0,14-21d
+677412000000,2025-04-07,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,Yes,Yes,No,No,No,No,No,No,Neutral,50.0,50.0,50.0,Unknown,No,No,No,No,No,NX2228,1,2025,2025-05-07,Won,30,0,0.0,0,29-35d
+590066000000,2024-08-11,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Satisfied,50.0,80.0,80.0,Unknown,No,No,No,No,No,NY7409,1,2024,2024-09-08,Won,28,0,30.0,0,22-28d
+681916000000,2025-02-09,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Not Relevant,No,No,No,No,No,No,No,No,No,Not Discussed,50.0,50.0,,Unknown,No,No,No,No,No,NZ5684,1,2025,2025-03-12,Won,31,0,0.0,0,29-35d
+684085000000,2025-02-10,OUT_BOUND,Standard,Yes,No,No,No,Yes,No,Agent,No,No,No,No,No,No,No,No,No,Neutral,50.0,70.0,70.0,Unknown,No,No,No,No,No,NZ5684,1,2025,2025-03-12,Won,30,0,20.0,0,29-35d
+689199000000,2025-04-12,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Satisfied,50.0,80.0,80.0,Unknown,No,No,No,No,No,NZ7447,1,2025,2025-05-05,Won,23,0,30.0,0,22-28d
+595925000000,2025-11-02,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Agent,No,No,No,No,No,No,No,No,No,Satisfied,50.0,80.0,80.0,Unknown,No,No,No,No,No,OA3900,1,2025,2025-12-12,Won,40,0,30.0,0,36-45d
+677234000000,2025-01-07,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,Yes,No,No,No,No,No,No,No,Satisfied,50.0,80.0,80.0,Unknown,No,No,No,No,No,OD4886,1,2025,2025-02-08,Won,32,0,30.0,0,29-35d
+623175000000,2025-02-04,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Neutral,50.0,50.0,,Unknown,No,No,No,No,No,OE0228,1,2025,2025-03-12,Won,36,0,0.0,0,36-45d
+590249000000,2024-12-11,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Agent,No,No,No,No,No,No,No,No,No,Satisfied,80.0,90.0,90.0,Unknown,No,No,No,No,No,OF1451,1,2024,2025-01-03,Won,23,0,10.0,0,22-28d
+593697000000,2025-08-01,OUT_BOUND,Not Discussed,No,No,Yes,No,No,No,Agent,No,No,No,No,No,No,No,No,No,Neutral,50.0,80.0,80.0,Unknown,No,No,No,No,No,OH8251,1,2025,2025-09-01,Won,31,0,30.0,0,29-35d
+689553000000,2025-09-12,IN_BOUND,Not Discussed,No,Yes,No,No,No,No,Customer,No,Yes,No,No,No,No,No,No,No,Neutral,50.0,80.0,80.0,80,No,No,No,No,No,OI8028,1,2025,2025-10-10,Won,28,0,30.0,0,22-28d
+684558000000,2025-09-10,IN_BOUND,Not Discussed,No,Yes,No,No,No,No,Customer,Yes,Yes,Yes,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,90,No,No,No,No,No,OJ6154,1,2025,2025-10-09,Won,29,0,40.0,0,29-35d
+677897000000,2025-09-07,OUT_BOUND,Standard,Yes,No,No,Yes,No,No,Agent,No,No,No,No,No,No,No,No,No,Neutral,50.0,80.0,,Unknown,Yes,No,No,No,No,OS6257,1,2025,2025-10-11,Won,34,0,30.0,0,29-35d
+689923000000,2025-12-12,OUT_BOUND,Standard,Yes,No,No,No,No,No,Agent,Yes,No,No,No,No,No,No,No,No,Neutral,50.0,80.0,80.0,Unknown,No,No,No,No,No,OU4446,1,2025,2026-01-02,Won,21,0,30.0,0,14-21d
+621541000000,2025-07-03,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Not Relevant,No,No,No,No,No,No,No,No,No,Not Discussed,0.0,0.0,,Unknown,No,No,No,No,No,OX0932,1,2025,2025-08-11,Won,39,0,0.0,0,36-45d
+682013000000,2025-05-09,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Neutral,50.0,50.0,50.0,Unknown,No,No,No,No,No,OX9315,1,2025,2025-06-11,Won,33,0,0.0,0,29-35d
+678084000000,2025-11-07,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Neutral,50.0,50.0,,Unknown,No,No,No,No,No,PA2852,1,2025,2025-12-09,Won,32,0,0.0,0,29-35d
+684084000000,2025-02-10,IN_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,Yes,No,No,Yes,No,No,No,No,Satisfied,50.0,90.0,90.0,90,No,No,No,No,No,PA6723,1,2025,2025-03-08,Won,26,0,40.0,0,22-28d
+591634000000,2024-03-12,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Not Relevant,No,No,No,No,No,No,No,No,No,Not Discussed,50.0,50.0,,Unknown,No,No,No,No,No,PC4725,1,2024,2024-04-06,Won,25,0,0.0,0,22-28d
+651566000000,2025-09-06,IN_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,Yes,No,No,No,No,Satisfied,50.0,90.0,90.0,90,No,No,No,No,No,PD8463,1,2025,2025-10-08,Won,32,0,40.0,0,29-35d
+691673000000,2026-06-01,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,Unknown,No,No,No,No,No,PG4121,1,2026,2026-07-01,Churned,30,1,40.0,0,29-35d
+683926000000,2025-01-10,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,90,No,No,No,No,No,PG8149,1,2025,2025-02-03,Won,24,0,40.0,0,22-28d
+595465000000,2025-04-02,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Agent,No,No,No,No,No,No,No,No,No,Satisfied,50.0,80.0,80.0,Unknown,No,No,No,No,No,PI7715,1,2025,2025-05-09,Won,37,0,30.0,0,36-45d
+677897000000,2025-09-07,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Agent,No,No,No,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,Unknown,No,No,No,No,No,PJ7066,1,2025,2025-10-08,Won,31,0,40.0,0,29-35d
+677897000000,2025-09-07,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Satisfied,50.0,90.0,80.0,Unknown,No,No,No,No,No,PJ7066,1,2025,2025-10-08,Won,31,0,40.0,0,29-35d
+590248000000,2024-11-11,OUT_BOUND,Standard,Yes,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,90,No,No,No,No,No,PK5268,1,2024,2024-12-12,Won,31,0,40.0,0,29-35d
+651877000000,2025-11-06,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Neutral,50.0,50.0,,Unknown,No,No,No,No,No,PK9326,1,2025,2025-12-08,Won,32,0,0.0,0,29-35d
+591754000000,2024-04-12,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Neutral,50.0,80.0,80.0,Unknown,No,No,No,No,No,PO4818,1,2024,2024-05-09,Won,27,0,30.0,0,22-28d
+595302000000,2025-03-02,OUT_BOUND,Express,Yes,No,No,No,No,No,Agent,No,No,No,No,No,No,No,No,No,Neutral,50.0,80.0,70.0,Unknown,No,No,No,No,No,PP4139,1,2025,2025-04-09,Won,38,0,30.0,0,36-45d
+651743000000,2025-10-06,IN_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,Yes,No,No,No,No,Neutral,50.0,50.0,,Unknown,No,No,No,No,No,PQ5142,1,2025,2025-11-06,Won,31,0,0.0,0,29-35d
+597368000000,2025-05-03,OUT_BOUND,Standard,Yes,No,Yes,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Satisfied,80.0,90.0,85.0,Unknown,No,No,No,No,No,PT0945,1,2025,2025-06-11,Won,39,0,10.0,0,36-45d
+689200000000,2025-05-12,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Neutral,50.0,50.0,50.0,Unknown,No,No,No,No,No,PT7035,1,2025,2025-06-06,Won,25,0,0.0,0,22-28d
+593696000000,2025-07-01,OUT_BOUND,Express,Yes,No,No,No,No,No,Agent,No,No,No,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,Unknown,No,No,No,No,No,PU5294,1,2025,2025-08-05,Won,35,0,40.0,0,29-35d
+677794000000,2025-07-07,OUT_BOUND,Standard,Yes,No,No,No,No,No,Agent,No,No,No,No,No,No,No,No,No,Satisfied,80.0,90.0,90.0,Unknown,No,No,No,No,No,PX7945,1,2025,2025-08-11,Won,35,0,10.0,0,29-35d
+686837000000,2025-06-11,OUT_BOUND,Standard,Yes,No,No,No,No,No,Agent,No,No,No,No,No,No,No,No,No,Satisfied,80.0,90.0,85.0,Unknown,No,No,No,No,No,QA5995,1,2025,2025-07-07,Won,26,0,10.0,0,22-28d
+591917000000,2024-09-12,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Neutral,50.0,80.0,80.0,Unknown,No,No,No,No,No,QE3638,1,2024,2024-10-02,Won,20,0,30.0,0,14-21d
+651252000000,2025-03-06,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Agent,No,No,No,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,Unknown,No,No,No,No,No,QJ3704,1,2025,2025-04-12,Won,37,0,40.0,0,36-45d
+623634000000,2025-09-04,IN_BOUND,Not Discussed,No,No,No,No,No,No,Customer,Yes,No,No,No,Yes,No,Yes,No,No,Satisfied,50.0,100.0,100.0,100,No,No,No,No,No,QM1639,1,2025,2025-10-04,Won,30,0,50.0,0,29-35d
+597237000000,2025-03-03,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Not Relevant,No,No,No,No,No,No,No,No,No,Not Discussed,50.0,50.0,,Unknown,No,No,No,No,No,QO3177,1,2025,2025-04-10,Won,38,0,0.0,0,36-45d
+689553000000,2025-10-12,IN_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,90,No,No,No,No,No,QP4958,1,2025,2025-11-10,Won,29,0,40.0,0,29-35d
+595302000000,2025-03-02,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,Yes,No,No,No,No,No,No,No,Neutral,50.0,80.0,80.0,Unknown,No,No,No,No,No,QP9190,1,2025,2025-04-06,Won,35,0,30.0,0,29-35d
+678084000000,2025-11-07,IN_BOUND,Not Discussed,No,No,No,No,Yes,Yes,Customer,No,No,Unknown,No,Yes,No,No,No,Yes,Neutral,50.0,60.0,55.0,50,Yes,Yes,Yes,Yes,Yes,QS6640,1,2025,2025-12-07,Churned,30,1,10.0,0,29-35d
+678084000000,2025-11-07,IN_BOUND,Not Discussed,No,No,No,No,No,No,Not Relevant,No,No,No,No,No,No,No,No,No,Not Discussed,50.0,50.0,,Unknown,No,No,No,No,No,QS6640,1,2025,2025-12-07,Churned,30,1,0.0,0,29-35d
+689199000000,2025-04-12,OUT_BOUND,Standard,Yes,No,No,No,No,No,Agent,Yes,No,No,No,No,No,No,No,No,Neutral,50.0,80.0,80.0,Unknown,No,No,No,No,No,QS7029,1,2025,2025-05-03,Won,21,0,30.0,0,14-21d
+679956000000,2025-07-08,OUT_BOUND,Not Discussed,No,No,Yes,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,Unknown,Yes,No,No,No,No,QS7153,1,2025,2025-08-10,Won,33,0,40.0,0,29-35d
+687352000000,2025-11-11,IN_BOUND,Not Discussed,No,No,No,No,Yes,No,Customer,Yes,No,Yes,No,No,No,Yes,No,No,Satisfied,50.0,90.0,90.0,90,No,No,No,No,No,QV5957,1,2025,2025-12-11,Won,30,0,40.0,0,29-35d
+623304000000,2025-03-04,IN_BOUND,Premier,Yes,No,Yes,Yes,No,No,Customer,Yes,No,Yes,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,90,Yes,No,No,No,No,RE8661,1,2025,2025-04-08,Won,35,0,40.0,0,29-35d
+595925000000,2025-11-02,OUT_BOUND,Express,Yes,No,No,No,Yes,Yes,Agent,No,No,No,No,No,No,No,No,No,Satisfied,80.0,90.0,85.0,Unknown,Yes,No,No,No,No,RG5658,1,2025,2025-12-11,Won,39,0,10.0,0,36-45d
+595925000000,2025-11-02,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Not Relevant,No,No,No,No,No,No,No,No,No,Not Discussed,50.0,50.0,,Unknown,No,No,No,No,No,RG5658,1,2025,2025-12-11,Won,39,0,0.0,0,36-45d
+589779000000,2024-04-11,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Agent,No,No,No,No,No,No,No,No,No,Neutral,50.0,50.0,,Unknown,No,No,No,No,No,RH0513,1,2024,2024-05-06,Won,25,0,0.0,0,22-28d
+682341000000,2025-09-09,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Agent,No,No,No,No,No,No,No,No,No,Neutral,50.0,50.0,,Unknown,No,No,No,No,No,RI4300,1,2025,2025-10-11,Won,32,0,0.0,0,29-35d
+623633000000,2025-08-04,OUT_BOUND,Standard,Yes,No,No,No,No,No,Agent,No,No,No,No,No,No,No,No,No,Neutral,50.0,50.0,,Unknown,No,No,No,No,No,RO1937,1,2025,2025-09-07,Churned,34,1,0.0,0,29-35d
+621699000000,2025-10-03,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Agent,Yes,No,No,No,No,No,No,No,No,Neutral,50.0,80.0,70.0,Unknown,No,No,No,No,No,RO3665,1,2025,2025-11-11,Won,39,0,30.0,0,36-45d
+592073000000,2024-11-12,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,Yes,No,No,No,No,No,No,No,Satisfied,50.0,80.0,80.0,Unknown,No,No,No,No,No,RR6454,1,2024,2024-12-05,Won,23,0,30.0,0,22-28d
+591917000000,2024-09-12,OUT_BOUND,Not Discussed,No,Yes,No,No,Yes,Yes,Agent,Yes,No,No,No,No,No,No,No,No,Neutral,50.0,80.0,70.0,Unknown,No,No,No,No,No,RS9221,1,2024,2024-10-02,Won,20,0,30.0,0,14-21d
+651743000000,2025-10-06,IN_BOUND,Not Discussed,No,Yes,No,No,No,No,Customer,No,Yes,No,No,No,No,No,No,No,Neutral,50.0,80.0,80.0,80,No,No,No,No,No,RT2700,1,2025,2025-11-07,Won,32,0,30.0,0,29-35d
+687159000000,2025-10-11,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Neutral,50.0,50.0,50.0,Unknown,No,No,No,No,No,RT4240,1,2025,2025-11-03,Won,23,0,0.0,0,22-28d
+679628000000,2025-04-08,OUT_BOUND,Not Discussed,No,No,Yes,No,No,No,Agent,No,No,No,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,Unknown,No,No,No,No,No,RT9011,1,2025,2025-05-08,Won,30,0,40.0,0,29-35d
+595925000000,2025-11-02,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,Yes,No,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,Unknown,No,No,No,No,No,RX0223,1,2025,2025-12-10,Won,38,0,40.0,0,36-45d
+625381000000,2025-06-05,IN_BOUND,Not Discussed,No,No,Yes,No,No,No,Customer,Yes,No,Yes,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,90,No,No,No,No,No,SB5031,1,2025,2025-07-05,Won,30,0,40.0,0,29-35d
+595746000000,2025-10-02,IN_BOUND,Express,Yes,Yes,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Unknown,,80.0,90.0,90,Unknown,Yes,No,The Contractor was cooperative and appreciative of the Agent's assistance.,Not Applicable,SD1274,1,2025,2025-11-03,Won,32,0,,0,29-35d
+687352000000,2025-11-11,IN_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,Yes,No,No,No,No,Neutral,50.0,80.0,80.0,80,No,No,No,No,Yes,SG9408,1,2025,2025-12-11,Won,30,0,30.0,0,29-35d
+687352000000,2025-11-11,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Satisfied,80.0,100.0,90.0,90,No,No,No,No,No,SG9408,1,2025,2025-12-11,Won,30,0,20.0,0,29-35d
+689718000000,2025-11-12,IN_BOUND,Not Discussed,No,No,No,No,No,No,Customer,Yes,No,Yes,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,90,No,No,No,No,No,SJ1732,1,2025,2025-12-09,Won,27,0,40.0,0,22-28d
+595603000000,2025-06-02,IN_BOUND,Not Discussed,No,No,No,No,No,No,Customer,Yes,No,No,Yes,Yes,No,Yes,No,No,Satisfied,50.0,90.0,90.0,90,No,No,No,No,No,SL7261,1,2025,2025-07-03,Won,31,0,40.0,0,29-35d
+595603000000,2025-06-02,IN_BOUND,Not Discussed,No,No,No,No,No,No,Agent,No,No,No,No,Yes,No,No,No,No,Neutral,50.0,80.0,80.0,Unknown,No,No,No,No,No,SL7261,1,2025,2025-07-03,Won,31,0,30.0,0,29-35d
+595603000000,2025-06-02,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Agent,No,No,No,No,No,No,No,No,No,Neutral,50.0,80.0,80.0,Unknown,No,No,No,No,No,SL7261,1,2025,2025-07-03,Won,31,0,30.0,0,29-35d
+680316000000,2025-11-08,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Neutral,50.0,80.0,80.0,Unknown,No,No,No,No,No,SN9398,1,2025,2025-12-12,Won,34,0,30.0,0,29-35d
+687352000000,2025-11-11,IN_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,Yes,No,No,No,No,No,Satisfied,50.0,90.0,90.0,90,No,No,No,No,No,SP3040,1,2025,2025-12-12,Won,31,0,40.0,0,29-35d
+590249000000,2024-12-11,OUT_BOUND,Standard,Yes,No,No,No,No,No,Agent,No,No,No,No,No,No,No,No,No,Neutral,50.0,80.0,70.0,Unknown,No,No,No,No,No,SR1921,1,2024,2025-01-09,Won,29,0,30.0,0,29-35d
+592293000000,2024-12-12,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Neutral,50.0,50.0,50.0,Unknown,No,No,No,No,No,SR1921,1,2024,2025-01-09,Won,28,0,0.0,0,22-28d
+597368000000,2025-05-03,OUT_BOUND,Not Discussed,No,No,No,No,Yes,No,Agent,No,No,No,No,No,No,No,No,No,Neutral,50.0,80.0,70.0,Unknown,No,No,No,No,No,ST1242,1,2025,2025-06-10,Won,38,0,30.0,0,36-45d
+590065000000,2024-07-11,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,Yes,No,No,No,No,No,No,No,Neutral,50.0,80.0,70.0,Unknown,No,No,No,No,No,SV8055,1,2024,2024-08-01,Won,21,0,30.0,0,14-21d
+593696000000,2025-07-01,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,Yes,No,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,Unknown,No,No,No,No,No,SV9807,1,2025,2025-08-01,Won,31,0,40.0,0,29-35d
+625696000000,2025-09-05,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,Yes,No,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,Unknown,No,No,No,No,No,SW9189,1,2025,2025-10-07,Won,32,0,40.0,0,29-35d
+689718000000,2025-11-12,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,90,Yes,No,No,No,No,TD4462,1,2025,2025-12-12,Won,30,0,40.0,0,29-35d
+686971000000,2025-07-11,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Satisfied,80.0,90.0,85.0,Unknown,No,No,No,No,No,TD9315,1,2025,2025-08-05,Won,25,0,10.0,0,22-28d
+595467000000,2025-05-02,IN_BOUND,Not Discussed,No,No,No,No,No,No,Customer,Yes,No,No,Yes,No,Yes,Unknown,No,Yes,Unknown,,,20.0,80,Unknown,Unknown,No,"The Agent helped the customer identify and fill in the missing information in his questionnaire, specifically the name and position of the person responsible for environmental management and the references section.",No,TL8726,1,2025,2025-06-07,Won,36,0,,0,36-45d
+689008000000,2025-02-12,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,Yes,No,No,No,No,No,No,No,Neutral,50.0,80.0,80.0,Unknown,No,No,No,No,No,TN5123,1,2025,2025-03-12,Won,28,0,30.0,0,22-28d
+621699000000,2025-10-03,OUT_BOUND,Standard,No,No,Yes,Yes,No,No,Customer,Yes,No,Yes,No,No,No,No,No,No,Satisfied,50.0,90.0,80.0,80,Yes,No,No,No,No,TO3644,1,2025,2025-11-07,Won,35,0,40.0,0,29-35d
+593825000000,2025-10-01,IN_BOUND,Standard,Yes,No,Yes,No,No,No,Customer,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Satisfied,20.0,90.0,90.0,90,No,No,No,No,Yes,TO3854,1,2025,2025-11-04,Won,34,0,70.0,0,29-35d
+687352000000,2025-11-11,IN_BOUND,Not Discussed,No,Yes,No,No,No,No,Customer,No,Yes,No,No,No,No,No,No,No,Neutral,50.0,80.0,80.0,80,No,No,No,No,No,TO6069,1,2025,2025-12-10,Won,29,0,30.0,0,29-35d
+597368000000,2025-05-03,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Agent,No,No,No,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,Unknown,No,No,No,No,No,TQ2636,1,2025,2025-06-06,Won,34,0,40.0,0,29-35d
+593697000000,2025-08-01,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,Unknown,No,No,No,No,No,TR4348,1,2025,2025-09-02,Churned,32,1,40.0,0,29-35d
+589929000000,2024-06-11,OUT_BOUND,Standard,Yes,No,Yes,Yes,Yes,No,Agent,No,No,No,No,No,Yes,Yes,No,No,Satisfied,50.0,90.0,90.0,50,Yes,Yes,No,No,Yes,TS1150,1,2024,2024-07-10,Won,29,0,40.0,0,29-35d
+687159000000,2025-10-11,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,Yes,No,No,No,No,No,No,No,Neutral,50.0,80.0,80.0,Unknown,No,No,No,No,No,TV8912,1,2025,2025-11-10,Won,30,0,30.0,0,29-35d
+595466000000,2025-05-02,OUT_BOUND,Clickers package,Yes,No,No,No,No,No,Agent,No,No,No,No,No,No,No,No,No,Neutral,50.0,80.0,80.0,Unknown,No,No,No,No,No,TX9436,1,2025,2025-06-02,Won,31,0,30.0,0,29-35d
+590065000000,2024-07-11,IN_BOUND,Assisted,Yes,Yes,No,No,No,No,Customer,Yes,No,Yes,No,No,No,No,No,No,Neutral,50.0,80.0,80.0,80,No,No,No,No,No,UB8132,1,2024,2024-08-11,Won,31,0,30.0,0,29-35d
+684416000000,2025-07-10,IN_BOUND,Express,Yes,Yes,No,No,Yes,No,Customer,Yes,Yes,Yes,No,No,No,Yes,No,No,Satisfied,80.0,90.0,85.0,85,Yes,No,No,No,No,UB8132,1,2025,2025-08-11,Won,32,0,10.0,0,29-35d
+597238000000,2025-04-03,OUT_BOUND,Not Discussed,No,No,Yes,No,No,No,Agent,No,No,No,No,No,No,No,No,No,Satisfied,80.0,90.0,85.0,Unknown,No,No,No,No,No,UC7965,1,2025,2025-05-07,Won,34,0,10.0,0,29-35d
+591634000000,2024-03-12,OUT_BOUND,Not Discussed,No,No,Yes,Yes,No,No,Agent,No,No,No,No,No,No,No,No,No,Satisfied,80.0,90.0,85.0,Unknown,No,No,No,No,No,UE0789,1,2024,2024-04-07,Won,26,0,10.0,0,22-28d
+683926000000,2025-01-10,OUT_BOUND,Standard,Yes,No,No,No,No,No,Agent,No,No,No,No,No,No,No,No,No,Satisfied,50.0,80.0,80.0,Unknown,No,No,No,No,No,UG2390,1,2025,2025-02-05,Won,26,0,30.0,0,22-28d
+590438000000,2024-12-11,OUT_BOUND,Standard,Yes,No,Yes,No,No,No,Agent,No,No,No,No,No,No,No,No,No,Neutral,50.0,80.0,80.0,Unknown,No,No,No,No,No,UJ4788,1,2024,2025-01-11,Won,31,0,30.0,0,29-35d
+625696000000,2025-09-05,IN_BOUND,"Assisted (currently), Standard (requested)",Yes,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Satisfied,50.0,90.0,80.0,80,Yes,No,No,No,Yes,UL1412,1,2025,2025-10-05,Won,30,0,40.0,0,29-35d
+651142000000,2025-02-06,IN_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,Yes,No,No,No,No,Neutral,50.0,50.0,50.0,Unknown,No,No,No,No,No,UO0083,1,2025,2025-03-06,Won,28,0,0.0,0,22-28d
+591633000000,2024-03-12,IN_BOUND,Not Discussed,No,Yes,No,No,Yes,No,Customer,No,Yes,No,No,No,No,Yes,No,No,Satisfied,20.0,60.0,60.0,60,No,No,No,No,Yes,UO6173,1,2024,2024-04-03,Won,22,0,40.0,0,22-28d
+677576000000,2025-07-07,IN_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,Yes,No,Yes,No,No,Neutral,50.0,70.0,60.0,60,Yes,No,No,No,Yes,UP0053,1,2025,2025-08-07,Won,31,0,20.0,0,29-35d
+689553000000,2025-09-12,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Satisfied,50.0,80.0,80.0,Unknown,No,No,No,No,No,UU1621,1,2025,2025-10-02,Won,20,0,30.0,0,14-21d
+689354000000,2025-08-12,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Not Relevant,No,No,No,No,No,No,No,No,No,Not Discussed,50.0,50.0,,Unknown,No,No,No,No,No,UV9325,1,2025,2025-09-09,Won,28,0,0.0,0,22-28d
+651877000000,2025-11-06,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Agent,No,Yes,No,No,No,No,No,No,No,Neutral,50.0,50.0,,Unknown,No,No,No,No,No,UV9459,1,2025,2025-12-11,Won,35,0,0.0,0,29-35d
+684416000000,2025-07-10,OUT_BOUND,Not Discussed,No,No,Yes,Yes,No,No,Agent,No,No,No,No,No,No,No,No,No,Not Discussed,50.0,50.0,,Unknown,No,No,No,No,No,UX6435,1,2025,2025-08-09,Won,30,0,0.0,0,29-35d
+590248000000,2024-11-11,OUT_BOUND,Premier,Yes,No,No,No,No,No,Customer,Yes,No,Yes,No,Yes,No,Yes,No,No,Satisfied,50.0,90.0,90.0,90,No,No,No,No,Yes,VA1226,1,2024,2024-12-09,Won,28,0,40.0,0,22-28d
+625380000000,2025-06-05,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,Yes,No,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,Unknown,No,No,No,No,No,VA8417,1,2025,2025-07-11,Won,36,0,40.0,0,36-45d
+590438000000,2024-12-11,IN_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Satisfied,80.0,95.0,92.0,90,No,No,No,No,No,VD6338,1,2024,2025-01-05,Won,25,0,15.0,0,22-28d
+589929000000,2024-06-11,OUT_BOUND,Express,Yes,No,No,No,No,No,Customer,No,No,Yes,No,No,No,No,No,No,Satisfied,80.0,90.0,85.0,85,No,No,No,No,No,VG5432,1,2024,2024-07-07,Won,26,0,10.0,0,22-28d
+651406000000,2025-05-06,OUT_BOUND,Standard,Yes,No,No,No,No,No,Agent,No,No,No,No,No,No,No,No,No,Satisfied,50.0,80.0,80.0,Unknown,No,No,No,No,No,VG6990,1,2025,2025-06-10,Won,35,0,30.0,0,29-35d
+651877000000,2025-11-06,IN_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Neutral,50.0,80.0,80.0,Unknown,No,No,No,No,No,VI3005,1,2025,2025-12-09,Won,33,0,30.0,0,29-35d
+651565000000,2025-06-06,IN_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,Yes,No,No,No,No,No,No,No,Neutral,50.0,70.0,60.0,60,No,No,No,No,No,VJ7621,1,2025,2025-07-11,Won,35,0,20.0,0,29-35d
+625080000000,2025-01-05,OUT_BOUND,Not Discussed,No,No,Yes,Yes,Yes,No,Agent,Yes,No,Yes,No,No,Yes,Yes,No,No,Neutral,50.0,80.0,80.0,80,Yes,Yes,No,Yes,No,VK6036,1,2025,2025-02-07,Won,33,0,30.0,0,29-35d
+684417000000,2025-07-10,OUT_BOUND,Standard,Yes,Yes,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Neutral,50.0,80.0,80.0,Unknown,No,No,No,No,No,VO3350,1,2025,2025-08-11,Won,32,0,30.0,0,29-35d
+677795000000,2025-08-07,IN_BOUND,Not Discussed,No,Yes,No,No,No,No,Customer,No,Yes,No,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,90,No,No,No,No,No,VS3807,1,2025,2025-09-12,Won,36,0,40.0,0,36-45d
+590248000000,2024-11-11,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Agent,No,No,No,No,No,No,No,No,No,Neutral,50.0,50.0,,Unknown,No,No,No,No,No,VS8269,1,2024,2024-12-04,Won,23,0,0.0,0,22-28d
+677795000000,2025-08-07,OUT_BOUND,Not Discussed,No,No,No,No,Yes,No,Agent,Yes,No,No,No,No,No,No,No,No,Neutral,50.0,80.0,80.0,Unknown,No,No,No,No,No,VS9021,1,2025,2025-09-12,Won,36,0,30.0,0,36-45d
+625851000000,2025-12-05,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Satisfied,50.0,80.0,80.0,Unknown,No,No,No,No,No,VX5848,1,2025,2026-01-02,Won,28,0,30.0,0,22-28d
+691673000000,2026-06-01,OUT_BOUND,Standard,Yes,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Satisfied,50.0,80.0,80.0,Unknown,No,No,No,No,No,WA5560,1,2026,2026-07-01,Won,30,0,30.0,0,29-35d
+591755000000,2024-06-12,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Agent,No,No,No,No,No,No,No,No,No,Not Discussed,50.0,50.0,,Unknown,No,No,No,No,No,WB0297,1,2024,2024-07-04,Won,22,0,0.0,0,22-28d
+688889000000,2025-01-12,IN_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,Yes,No,No,No,No,Satisfied,80.0,95.0,90.0,90,No,No,No,No,No,WI0388,1,2025,2025-02-12,Won,31,0,15.0,0,29-35d
+689009000000,2025-03-12,IN_BOUND,Not Discussed,No,Yes,No,No,Yes,No,Customer,No,Yes,No,No,No,No,No,No,Yes,Satisfied,40.0,80.0,70.0,70,No,No,No,No,Yes,WL4087,1,2025,2025-04-12,Won,31,0,40.0,0,29-35d
+623776000000,2025-11-04,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,Unknown,No,No,No,No,No,WO6113,1,2025,2025-12-12,Won,38,0,40.0,0,36-45d
+593825000000,2025-10-01,IN_BOUND,Standard,Yes,No,No,No,No,No,Customer,No,Yes,No,Yes,No,Yes,No,No,No,Neutral,50.0,70.0,60.0,60,No,No,No,No,Yes,WX5986,1,2025,2025-11-02,Won,32,0,20.0,0,29-35d
+595746000000,2025-10-02,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,Unknown,No,No,No,No,No,XD8404,1,2025,2025-11-03,Won,32,0,40.0,0,29-35d
+621699000000,2025-10-03,OUT_BOUND,Express,Yes,No,No,No,No,No,Agent,No,No,No,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,Unknown,No,No,No,No,No,XD8404,1,2025,2025-11-03,Won,31,0,40.0,0,29-35d
+679955000000,2025-06-08,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Neutral,50.0,80.0,80.0,Unknown,No,No,No,No,No,XI4788,1,2025,2025-07-12,Churned,34,1,30.0,0,29-35d
+595604000000,2025-06-02,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Neutral,50.0,80.0,80.0,Unknown,No,No,No,No,No,XJ8581,1,2025,2025-07-11,Won,39,0,30.0,0,36-45d
+689009000000,2025-03-12,OUT_BOUND,Express,Yes,No,No,No,No,No,Agent,No,No,No,No,No,No,No,No,Yes,Neutral,50.0,60.0,60.0,Unknown,No,No,No,No,Yes,XK7660,1,2025,2025-04-10,Won,29,0,10.0,0,29-35d
+682012000000,2025-04-09,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,Yes,No,No,No,No,No,No,No,Satisfied,80.0,90.0,85.0,Unknown,No,No,No,No,No,XW1691,1,2025,2025-05-11,Churned,32,1,10.0,0,29-35d
+687352000000,2025-11-11,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Agent,No,No,No,No,No,No,No,No,No,Neutral,50.0,80.0,80.0,80,No,No,No,Yes,No,YC1560,1,2025,2025-12-01,Won,20,0,30.0,0,14-21d
+689718000000,2025-11-12,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Satisfied,50.0,90.0,80.0,Unknown,No,No,No,No,No,YF9317,1,2025,2025-12-10,Won,28,0,40.0,0,22-28d
+595465000000,2025-04-02,IN_BOUND,Not Discussed,No,No,No,No,Yes,No,Customer,No,No,No,No,No,No,No,No,No,Satisfied,80.0,100.0,100.0,100,No,No,No,No,No,YJ3676,1,2025,2025-05-02,Won,30,0,20.0,0,29-35d
+595465000000,2025-04-02,IN_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Satisfied,80.0,90.0,85.0,85,No,No,No,No,No,YJ3676,1,2025,2025-05-02,Won,30,0,10.0,0,29-35d
+595465000000,2025-04-02,IN_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,Yes,No,No,No,No,Satisfied,50.0,90.0,90.0,90,Yes,No,No,No,No,YJ3676,1,2025,2025-05-02,Won,30,0,40.0,0,29-35d
+595926000000,2025-11-02,IN_BOUND,Not Discussed,No,Yes,No,No,Yes,No,Customer,No,Yes,No,No,Yes,Yes,Yes,No,No,Satisfied,20.0,80.0,60.0,40,No,No,No,No,Yes,YK0850,1,2025,2025-12-02,Won,30,0,60.0,0,29-35d
+595926000000,2025-11-02,OUT_BOUND,Not Discussed,No,Yes,No,No,Yes,No,Customer,Yes,Yes,Yes,No,No,No,Yes,No,No,Neutral,50.0,80.0,70.0,60,No,No,No,No,Yes,YK0850,1,2025,2025-12-02,Won,30,0,30.0,0,29-35d
+595926000000,2025-11-02,OUT_BOUND,Not Discussed,No,Yes,Yes,No,No,No,Customer,No,Yes,No,No,No,No,No,No,No,Neutral,50.0,80.0,80.0,Unknown,No,No,No,No,No,YM4424,1,2025,2025-12-02,Won,30,0,30.0,0,29-35d
+592072000000,2024-10-12,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Satisfied,50.0,80.0,80.0,Unknown,No,No,No,No,No,YN3404,1,2024,2024-11-11,Won,30,0,30.0,0,29-35d
+592072000000,2024-10-12,IN_BOUND,Not Discussed,No,No,No,No,Yes,No,Customer,No,No,No,Yes,Yes,No,No,No,No,Neutral,50.0,80.0,70.0,70,No,No,No,No,No,YN3404,1,2024,2024-11-11,Won,30,0,30.0,0,29-35d
+689009000000,2025-03-12,OUT_BOUND,Standard,Yes,No,No,No,No,No,Customer,No,No,No,No,Yes,No,No,No,No,Satisfied,50.0,90.0,90.0,80,No,No,No,No,Yes,YO6720,1,2025,2025-04-06,Won,25,0,40.0,0,22-28d
+621700000000,2025-11-03,IN_BOUND,Not Discussed,No,No,No,No,No,No,Customer,Yes,No,Yes,No,No,No,No,No,No,Satisfied,50.0,90.0,80.0,80,No,No,No,No,No,YP7559,1,2025,2025-12-12,Won,39,0,40.0,0,36-45d
+591633000000,2024-03-12,OUT_BOUND,Not Discussed,No,Yes,No,No,No,No,Customer,Yes,No,No,No,No,No,No,No,No,Neutral,50.0,80.0,80.0,Unknown,No,No,No,No,No,YR1740,1,2024,2024-04-03,Won,22,0,30.0,0,22-28d
+684416000000,2025-06-10,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Agent,No,No,No,No,No,No,No,No,No,Neutral,50.0,80.0,70.0,Unknown,No,No,No,No,No,YU6807,1,2025,2025-07-09,Won,29,0,30.0,0,29-35d
+651406000000,2025-05-06,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Neutral,50.0,50.0,,Unknown,No,No,No,No,No,YW6600,1,2025,2025-06-07,Won,32,0,0.0,0,29-35d
+591917000000,2024-09-12,IN_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,Yes,No,Yes,No,No,No,No,No,Satisfied,20.0,90.0,90.0,90,No,No,No,No,No,YX2134,1,2024,2024-10-07,Won,25,0,70.0,0,22-28d
+595604000000,2025-06-02,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Not Relevant,No,No,No,No,No,No,No,No,No,Not Discussed,50.0,50.0,,Unknown,No,No,No,No,No,YZ8649,1,2025,2025-07-04,Won,32,0,0.0,0,29-35d
+591635000000,2024-04-12,OUT_BOUND,Assisted,Yes,No,No,No,Yes,No,Customer,Yes,No,Yes,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,90,Yes,No,No,No,No,ZE2138,1,2024,2024-05-07,Won,25,0,40.0,0,22-28d
+621700000000,2025-11-03,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Customer,Yes,Yes,Yes,No,No,No,No,No,No,Satisfied,50.0,90.0,85.0,80,No,No,No,No,No,ZE6325,1,2025,2025-12-08,Won,35,0,40.0,0,29-35d
+591514000000,2024-02-12,IN_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Satisfied,50.0,100.0,100.0,100,No,No,No,No,No,ZG1258,1,2024,2024-03-09,Won,26,0,50.0,0,22-28d
+689552000000,2025-08-12,IN_BOUND,Standard,Yes,No,No,No,No,No,Customer,Yes,No,No,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,90,No,No,No,No,No,ZH2013,1,2025,2025-09-05,Won,24,0,40.0,0,22-28d
+689354000000,2025-08-12,OUT_BOUND,Standard,Yes,Yes,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Satisfied,50.0,80.0,80.0,Unknown,No,No,No,No,No,ZH2013,1,2025,2025-09-05,Won,24,0,30.0,0,22-28d
+623476000000,2025-07-04,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Agent,No,Yes,No,No,No,No,No,No,No,Neutral,50.0,50.0,,Unknown,No,No,No,No,No,ZI4603,1,2025,2025-08-05,Won,32,0,0.0,0,29-35d
+687159000000,2025-10-11,IN_BOUND,Not Discussed,No,Yes,No,No,Yes,No,Customer,No,Yes,No,No,No,Yes,Yes,No,No,Satisfied,20.0,80.0,60.0,60,No,No,No,No,Yes,ZL7423,1,2025,2025-11-12,Won,32,0,60.0,0,29-35d
+686663000000,2025-04-11,IN_BOUND,Print,Yes,Yes,No,No,No,No,Customer,No,Yes,No,No,No,No,No,No,No,Neutral,50.0,80.0,70.0,70,No,No,No,No,Yes,ZM2135,1,2025,2025-05-10,Won,29,0,30.0,0,29-35d
+679805000000,2025-04-08,OUT_BOUND,Not Discussed,No,No,No,No,No,No,Agent,No,No,No,No,No,No,No,No,No,Satisfied,80.0,90.0,90.0,Unknown,No,No,No,No,No,ZP3004,1,2025,2025-05-10,Won,32,0,10.0,0,29-35d
+589929000000,2024-06-11,IN_BOUND,Not Discussed,No,No,No,No,No,No,Customer,No,No,No,No,No,Yes,Yes,No,No,Neutral,50.0,80.0,70.0,70,No,No,No,No,Yes,ZX5619,1,2024,2024-07-11,Won,30,0,30.0,0,29-35d
+589929000000,2024-06-11,IN_BOUND,Not Discussed,No,Yes,No,No,Yes,No,Customer,No,Yes,No,No,No,No,No,No,No,Satisfied,50.0,90.0,90.0,90,No,No,No,No,No,ZX5619,1,2024,2024-07-11,Won,30,0,40.0,0,29-35d
+591754000000,2024-05-12,OUT_BOUND,Standard,Yes,No,No,No,No,No,Agent,No,No,No,Yes,No,Yes,No,No,No,Neutral,50.0,80.0,80.0,Unknown,No,No,No,No,No,ZZ6999,1,2024,2024-06-03,Won,22,0,30.0,0,22-28d
+689200000000,2025-05-12,OUT_BOUND,Standard,Yes,No,No,No,No,No,Customer,No,No,No,No,No,No,No,No,No,Satisfied,80.0,90.0,90.0,Unknown,No,No,No,No,No,ZZ6999,1,2025,2025-06-03,Won,22,0,10.0,0,22-28d

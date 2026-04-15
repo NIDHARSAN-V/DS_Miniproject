@@ -1,0 +1,65 @@
+Feature,SHAP_Importance
+Status_Scores,2.3905275
+Sustainability_Score,0.8779261
+Payment_Timeframe,0.6622884
+Auto_Renewal_Score,0.6125002
+Total_Net_Paid,0.6007415
+Discount_Amount,0.47995317
+Tenure_Years,0.38800198
+Band_Band B,0.20048326
+stage_high_risk_flag,0.1546037
+stage_low_risk_flag,0.13712096
+Band_Band D,0.11769165
+Renewal_Score_At_Release,0.113373615
+Current_Anchorings,0.09345742
+Anchoring_Score,0.07472703
+Band_Band C1,0.06894874
+Tenure_Group_3,0.065913916
+Connection_Group_4 to 9,0.045555823
+Band_Band E,0.04330909
+Band_Band C2,0.03918999
+Connection_Group_Unknown,0.03093962
+Connection_Group_10+,0.03003102
+Band_Band F2,0.02548325
+Band_Band F,0.025353353
+Band_Band F1,0.024631161
+Connection_Group_Independent,0.022773353
+Connection_Group_2,0.02019174
+Band_Band G,0.019812169
+Connection_Group_3,0.01837284
+Band_Group,0.012323862
+Anchor_Group_4 to 9,0.0120884245
+Tenure_Group_4+,0.0108525315
+Anchor_Group_Independent,0.01073401
+Tenure_Group_2,0.007820824
+cancel_flag,0.0078072343
+Band_Band H,0.0072598965
+competitor_mentioned_flag,0.006956251
+Band_Band I,0.006628307
+Anchor_Group_Unknown,0.006392913
+Customer_Response_Risk_Low Risk,0.005142029
+Anchor_Group_10+,0.003148493
+Band_Band J,0.0026956538
+Anchor_Group_3,0.002645
+Customer_Response_Risk_Neutral,0.0013634221
+Tenure_Group_Unknown,0.0012668006
+Serious_Complaint_renewal,0.0010887678
+Call_Reschedule_Request_renewal,0.001079002
+Competitor_Value_Comparison_renewal_Unknown,0.0010368016
+Anchor_Group_2,0.00065011246
+Competitor_Value_Comparison_renewal_unknown,0.0006207748
+Customer_Response_Risk_Medium Risk,0.0005388195
+topic_customer_flag,0.00025467956
+Price_Switching_Mentioned_renewal,0.000108392
+Renewal_Impact_Due_to_Price_Increase_renewal,6.333558e-05
+Band_Unknown,2.3010878e-05
+Discount_Offered_flag,1.535048e-05
+Current_World_Pay_Token,0.0
+agent_complaint_flag,0.0
+Explicit_Competitor_Mention_renewal,0.0
+Customer_Response_flag,0.0
+Call_attend_status_renewal,0.0
+Explicit_Switching_Intent_flag,0.0
+Proforma_Auto_Renewal,0.0
+Current_Auto_Renewal_Flag,0.0
+Competitor_Value_Comparison_renewal_Yes,0.0
